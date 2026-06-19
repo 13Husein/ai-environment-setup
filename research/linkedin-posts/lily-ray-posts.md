@@ -2,12 +2,12 @@
 
 ## Post 1
 * **Date:** June 2026
-* **Summary:** Menjelaskan bahwa algoritma Google Core Update terbaru sangat ketat menyaring konten AI yang duplikatif. Pakar SEO disarankan fokus pada orisinalitas data dan pembuktian kepakaran manusia.
+* **Summary:** Analyzes how recent Google Core Updates are heavily filtering out repetitive and low-utility AI content. Advises SEO practitioners to prioritize human-backed first-hand data and original case studies.
 * **Link:** https://linkedin.com
 
 ---
 
 ## Post 2
 * **Date:** June 2026
-* **Summary:** Menguraikan strategi taktis menyusun konten berbasis E-E-A-T agar mudah dipahami oleh sistem kecerdasan buatan Google saat menyusun Ringkasan AI (AI Overviews).
+* **Summary:** Breaks down tactical E-E-A-T formatting frameworks designed to help high-quality content get cited accurately by Google's AI Overviews and other generative search summaries.
 * **Link:** https://linkedin.com
